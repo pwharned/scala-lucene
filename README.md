@@ -1,0 +1,2 @@
+# scala-lucene
+Lucene examples
