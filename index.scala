@@ -1,4 +1,3 @@
-import database.Configuration
 import entitites.{CodeResult, SimpleCodeResult}
 import logging.Logging
 import org.apache.lucene.analysis.core.SimpleAnalyzer
